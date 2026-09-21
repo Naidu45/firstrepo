@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello naidu, how are you 
+=======
+hello naidu, how are you 
+
+fine , what about you
+>>>>>>> branch2
